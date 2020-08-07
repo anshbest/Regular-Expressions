@@ -1,5 +1,5 @@
 #!/bin/bash -x
-#!/bin/bash -x
+
 
 IS_PART_TIME=1
 IS_FULL_TIME=2
